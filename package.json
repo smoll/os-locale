@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "description": "Get the system locale",
   "license": "MIT",
+  "browser" : {
+    "child_process": false
+  },
   "repository": "sindresorhus/os-locale",
   "author": {
     "name": "Sindre Sorhus",
